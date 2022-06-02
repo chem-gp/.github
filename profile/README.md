@@ -1,3 +1,4 @@
 
-* Scalable Gaussian Processes with PyTorch/GPyTorch (TensorFlow/GPFlow in Future)
-* Stochastic Variational Inference with Pyro
+Fitting molecular Energies, Forces and Chemical shifts with scalable Gaussian Processes using stochastic variational inference.  
+
+
