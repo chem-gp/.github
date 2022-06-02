@@ -1,5 +1,5 @@
 
-__Fitting molecular Energies, Forces and Chemical shifts with scalable Gaussian Processes using Stochastic Variational Inference__
+__Fitting molecular Energies, Forces and Chemical shifts with scalable Gaussian Processes by Stochastic Variational Inference__
 
 
 
