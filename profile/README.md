@@ -8,4 +8,8 @@ Current scope of the project is focused on the following applications:
   * averaging of chemical shifts
   * chemical reaction network discovery
 
+Update all repos
+```bash
+for i in */.git; do ( echo $i; cd $i/..; git pull; ); done
+```
 
